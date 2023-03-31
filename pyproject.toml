@@ -10,7 +10,7 @@ description = "Test data for mdy-newanalysis-package"
 dynamic = ["version"]
 readme = "README.md"
 authors = [
-    { name = "cbc-univie", email = "cbc-unive@univie.ac.at" }
+    { name = "cbc-univie", email = "xxx" }
 ]
 license = { text = "MIT" }
 # See https://pypi.org/classifiers/
